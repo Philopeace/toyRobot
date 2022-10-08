@@ -1,0 +1,8 @@
+﻿  utest_integration.cpp
+  utest_translator.cpp
+  utest_toyRobot.cpp
+  Generating code
+  All 3464 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  unittest_toyRobot.vcxproj -> C:\Users\DavidWang\source\repos\Iress-David\x64\Release\unittest_toyRobot.exe
+  unittest_toyRobot.vcxproj -> C:\Users\DavidWang\source\repos\Iress-David\x64\Release\unittest_toyRobot.pdb (Full PDB)

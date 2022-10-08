@@ -1,0 +1,5 @@
+﻿  robot.cpp
+  toyRobot.cpp
+  Translator.cpp
+Translator.cpp(52): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  toyRobot.vcxproj -> C:\Users\DavidWang\source\repos\Iress-David\x64\Release\toyRobot.lib
